@@ -1,4 +1,4 @@
-# Build Scene Manager
+# Scene Build Manager
 
 A Unity Editor script for managing scenes in the build settings with ease.
 
@@ -11,13 +11,13 @@ A Unity Editor script for managing scenes in the build settings with ease.
 
 ## Usage
 
-1. **Import the `BuildSceneManager.unitypackage` into your Unity project:**
+1. **Import the `SceneBuildManager.unitypackage` into your Unity project:**
    - Navigate to `Assets` > `Import Package` > `Custom Package...`.
    - Select the downloaded `.unitypackage` file and click `Open`.
    - In the Import Package dialog, ensure all items are checked and click `Import`.
 
 2. **Open the Unity Editor:**
-   - Go to `Tools` > `Build Scene Manager` to open the Build Scene Manager window.
+   - Go to `Tools` > `Haru` > `Scene Build Manager` to open the Build Scene Manager window.
 
 3. **Select the scene folder:**
    - Click the `Select Scene Folder` button to choose the folder containing the scenes you want to manage.
@@ -53,4 +53,4 @@ Contributions are welcome! If you'd like to add new features or fix bugs, please
 
 ## Version
 
-1.0.1
+1.0.2
