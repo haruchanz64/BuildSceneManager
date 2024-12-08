@@ -1,4 +1,7 @@
 # Changelog
+## V.1.0.2.1 - 8/12/2024
+### Fixes:
+- Fixes the issue of incorrect MenuItem path.
 
 ## V1.0.2 - 8/12/2024
 ### Changes:
